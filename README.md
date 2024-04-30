@@ -6,8 +6,8 @@
 
 Mi nombre es Gonzalo Pereyra, soy estudiante de computación e informática con enfoque en backend. Apasionado por desarrollar soluciones eficientes y escalables. Comprometido con el aprendizaje continuo y la mejora constante.
 
-* 🌍  I'm based in Lima, Peru
-* ✉️  You can contact me at [gonzalopereyra617@gmail.com](mailto:gonzalopereyra617@gmail.com)
+* #### 🌍  I'm based in Lima, Peru
+* #### ✉️  You can contact me at [gonzalopereyra617@gmail.com](mailto:gonzalopereyra617@gmail.com)
 
 ## Skills
 <p align="left">
