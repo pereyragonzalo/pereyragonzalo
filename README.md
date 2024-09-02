@@ -1,6 +1,6 @@
 # Hi, welcome back!!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-## Backend developer
+## Computer science and IT student
 -----------------
 #### I'm Gonzalo Pereyra a computer science and IT student with a focus on backend. Passionate about developing efficient and scalable solutions. Committed to continuous learning and constant improvement.
 
