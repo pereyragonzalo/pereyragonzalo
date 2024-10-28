@@ -2,9 +2,9 @@
 
 ## Computer science and IT student
 -----------------
-#### I'm Gonzalo Pereyra a computer science and IT student with a focus on backend. Passionate about developing efficient and scalable solutions. Committed to continuous learning and constant improvement.
+#### I'm Gonzalo Pereyra a computer science and IT student. Passionate about developing efficient and scalable solutions. Committed to continuous learning and constant improvement.
 
-Mi nombre es Gonzalo Pereyra, soy estudiante de computación e informática con enfoque en backend. Apasionado por desarrollar soluciones eficientes y escalables. Comprometido con el aprendizaje continuo y la mejora constante.
+Mi nombre es Gonzalo Pereyra, soy estudiante de computación e informática. Apasionado por desarrollar soluciones eficientes y escalables. Comprometido con el aprendizaje continuo y la mejora constante.
 
 * #### 🌍  I'm based in Lima, Peru
 * #### ✉️  You can contact me at [gonzalopereyra617@gmail.com](mailto:gonzalopereyra617@gmail.com)
