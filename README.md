@@ -6,5 +6,10 @@
 
 Apasionado por desarrollar soluciones eficientes y escalables. Comprometido con el aprendizaje continuo y la mejora constante.
 
+
+### Tecnologias
+(https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
+
+
 * #### 🌍  I'm based in Lima, Peru
 * #### ✉️  You can contact me at [gonzalopereyra617@gmail.com](mailto:gonzalopereyra617@gmail.com)
