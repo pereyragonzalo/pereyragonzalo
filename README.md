@@ -6,10 +6,12 @@
 
 Apasionado por desarrollar soluciones eficientes y escalables. Comprometido con el aprendizaje continuo y la mejora constante.
 
-
-### Tecnologias
-(https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
-
+<div align="center">
+  <h3>Technology | Tecnologia</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,cs,python,django,html,css,mysql,mongodb,figma,postman,selenium" alt="Tecnologías de Desarrollo"/>
+  </p>
+</div>
 
 * #### 🌍  I'm based in Lima, Peru
 * #### ✉️  You can contact me at [gonzalopereyra617@gmail.com](mailto:gonzalopereyra617@gmail.com)
